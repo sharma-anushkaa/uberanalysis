@@ -1,6 +1,7 @@
 # uberanalysis
 analysis on the uber data set
 
+![image](https://user-images.githubusercontent.com/84668911/164947323-f60162f2-6f21-4b6d-98bc-3ec6a2320ace.png)
 
 This notebook uses the data-set to analyse when maximum uber rides are booked, and when can maximum profit be generated.
 
